@@ -126,7 +126,7 @@ To get started, clone the repository and install the dependencies.
 
 ```bash
 # Clone the repository
-git clone https://github.com/andersn0002/CodeAntAI.git
+git clone https://github.com/yuyasano0096/CodeAntAI.git
 
 # Navigate to the project directory
 cd CodeAntAI.git
